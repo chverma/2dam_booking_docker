@@ -1,0 +1,3 @@
+[submodule "2dam_booking"]
+	path = 2dam_booking
+	url = git@github.com:chverma/2dam_booking.git
