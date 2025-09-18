@@ -9,7 +9,7 @@ services:
     working_dir: /web
     command: pm2-runtime start pm2.json
     volumes:
-      - ./2dam-booking:/web
+      - ./2dam_booking:/web
     environment:
       - TZ=Europe/Berlin
     restart: always
